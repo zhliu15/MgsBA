@@ -10,6 +10,7 @@ Mutant Gene Set Burden Analysis (MgsBA)
 分析中输入数据为GATK流程call variant的结果，经多样本整合后，通过ANNOVAR注释的结果。
 经本流程分析后得到各个水平比较分析结果。
 
+简要的分析流程图如下：
 
 In order to facilitate researchers to study intercellular communication, we provide here two methods for constructing intercellular gene regulatory networks. Intercellular gene regulatory network (IGRN) includes (ligand-receptor-transcription factor-target gene). The number of signalling molecules is reduced after multiple filters are applied to the regulatory network, which means that overlapping genes are analysed by multiple communication tools Frequently used filters reduce the number of false-positive results that can be derived using a single tool. In this way, we can more accurately analyse the communication mechanisms between cells. The code for previously published tools is stored in the branch: CCnetwork, and the code for the tools in this study is stored in the branch: cIGRN.
 
