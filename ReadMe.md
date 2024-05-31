@@ -11,8 +11,4 @@ Mutant Gene Set Burden Analysis (MgsBA)
 经本流程分析后得到各个水平比较分析结果。
 
 简要的分析流程图如下：
-
-In order to facilitate researchers to study intercellular communication, we provide here two methods for constructing intercellular gene regulatory networks. Intercellular gene regulatory network (IGRN) includes (ligand-receptor-transcription factor-target gene). The number of signalling molecules is reduced after multiple filters are applied to the regulatory network, which means that overlapping genes are analysed by multiple communication tools Frequently used filters reduce the number of false-positive results that can be derived using a single tool. In this way, we can more accurately analyse the communication mechanisms between cells. The code for previously published tools is stored in the branch: CCnetwork, and the code for the tools in this study is stored in the branch: cIGRN.
-
-cIGRN: This process can be constructed without setting up a control group, which is convenient for cell communication analysis of spatial transcriptome data.
-![igrn](https://github.com/xukun01102021/cIGRN/assets/106895814/417c4339-e13e-456d-87ae-ea280da3e021)
+![image](https://github.com/zhliu15/MgsBA/blob/main/MgsBA%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
